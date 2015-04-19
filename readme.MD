@@ -16,7 +16,7 @@ Furthermore, please treat this repository as a sandbox. Fork it, Branch it, Clon
 
 **Git Tutorial:** http://git-scm.com/docs/gittutorial
 
-**Group Porject Idea List:** https://docs.google.com/spreadsheets/d/1nPUZP9i5VLTeAsEX8bxuOxIoPa8kI6n3BZTL6uV-0dI/edit#gid=0
+**Group Project Idea List:** https://docs.google.com/spreadsheets/d/1nPUZP9i5VLTeAsEX8bxuOxIoPa8kI6n3BZTL6uV-0dI/edit#gid=0
 
 **Idea List by PyATL:** https://docs.google.com/spreadsheet/ccc?key=0Ak8pFoKB6kK-dFdlejg1RloxaUxsSVNXZTFrWmdJdHc
 

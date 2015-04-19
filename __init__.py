@@ -1,1 +1,2 @@
 __author__ = "Python Jedis"
+__python__ = "2.7"
